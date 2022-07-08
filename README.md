@@ -1,17 +1,17 @@
-## To-Do-List
+# To-Do-List
 
-# To-Do List is created with Mobile number only that is based authentication and authorization API using Nodejs and Mongodb.
+## To-Do List is created with Mobile number only that is based authentication and authorization API using Nodejs and Mongodb.
 
-# Mobile OTP API
+## Mobile OTP API
 -- Create Login Page.
 -- 1. Create Login Screen
 -- 2. Accept Mobile Number and send and validate the OTP on Mobile number. 
 
-# To-Do List API
+## To-Do List API
 -- 1. Create To Do List
 -- 2. Delete To DO List
 
-# Packages - 
+## Packages - 
 Express.Js
 Body-Parser
 Mongoose
